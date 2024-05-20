@@ -8,4 +8,4 @@
 
 add a text in new branch
 
-Resolve conflict situation
+Resolve conflict situation in brow
