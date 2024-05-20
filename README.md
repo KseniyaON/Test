@@ -7,3 +7,5 @@
 Текст локально добавлен
 
 add a text in new branch
+
+Resolve conflict situation
