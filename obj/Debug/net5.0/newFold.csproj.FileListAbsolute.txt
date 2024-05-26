@@ -1,0 +1,16 @@
+C:\Users\kseni\Desktop\Practice_Geek\newFold\bin\Debug\net5.0\newFold.exe
+C:\Users\kseni\Desktop\Practice_Geek\newFold\bin\Debug\net5.0\newFold.deps.json
+C:\Users\kseni\Desktop\Practice_Geek\newFold\bin\Debug\net5.0\newFold.runtimeconfig.json
+C:\Users\kseni\Desktop\Practice_Geek\newFold\bin\Debug\net5.0\newFold.runtimeconfig.dev.json
+C:\Users\kseni\Desktop\Practice_Geek\newFold\bin\Debug\net5.0\newFold.dll
+C:\Users\kseni\Desktop\Practice_Geek\newFold\bin\Debug\net5.0\ref\newFold.dll
+C:\Users\kseni\Desktop\Practice_Geek\newFold\bin\Debug\net5.0\newFold.pdb
+C:\Users\kseni\Desktop\Practice_Geek\newFold\obj\Debug\net5.0\newFold.csproj.AssemblyReference.cache
+C:\Users\kseni\Desktop\Practice_Geek\newFold\obj\Debug\net5.0\newFold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kseni\Desktop\Practice_Geek\newFold\obj\Debug\net5.0\newFold.AssemblyInfoInputs.cache
+C:\Users\kseni\Desktop\Practice_Geek\newFold\obj\Debug\net5.0\newFold.AssemblyInfo.cs
+C:\Users\kseni\Desktop\Practice_Geek\newFold\obj\Debug\net5.0\newFold.csproj.CoreCompileInputs.cache
+C:\Users\kseni\Desktop\Practice_Geek\newFold\obj\Debug\net5.0\newFold.dll
+C:\Users\kseni\Desktop\Practice_Geek\newFold\obj\Debug\net5.0\ref\newFold.dll
+C:\Users\kseni\Desktop\Practice_Geek\newFold\obj\Debug\net5.0\newFold.pdb
+C:\Users\kseni\Desktop\Practice_Geek\newFold\obj\Debug\net5.0\newFold.genruntimeconfig.cache
